@@ -2,9 +2,9 @@
 template: blog-post
 title: Desk for minimalists
 slug: /minimalists-desk
-date: 2020-05-13 12:46
+date: 2021-02-09 15:12
 description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
@@ -22,32 +22,10 @@ No! I want to live! There are still too many things I don't own! It doesn't look
 2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 3. You, a bobsleder!? That I'd like to see!
 
-### Daylight and everything.
+### Daylight and everything
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+Leo sociis tellus ornare netus diam parturient, libero pharetra scelerisque metus nunc phasellus, fusce suspendisse justo vulputate enim. Varius sollicitudin elementum conubia iaculis volutpat rhoncus aliquet elit lacinia, maecenas ligula ante diam id suspendisse ac parturient, curabitur sociosqu et pharetra mollis arcu molestie ultricies. Risus convallis feugiat justo curabitur dictumst fusce nibh montes, eu interdum velit cursus auctor molestie orci ante ipsum, condimentum fermentum neque morbi volutpat eros ligula. Netus sem mus feugiat quisque imperdiet condimentum facilisi lectus, sodales facilisis himenaeos magnis gravida phasellus ligula dignissim vitae, quis auctor tincidunt justo eget fermentum senectus. Urna justo risus diam pulvinar dapibus gravida eros eget aptent duis, libero sit primis fringilla accumsan facilisis curabitur parturient ad dictumst, vitae feugiat iaculis sed cras id commodo aenean platea. Urna facilisi vulputate hendrerit ac neque penatibus dis elit, odio erat posuere mattis diam auctor quam. Vestibulum vivamus eros potenti egestas eleifend fames in integer rhoncus vehicula, euismod aliquet tincidunt aptent dis laoreet praesent suspendisse risus, mus bibendum sagittis massa pretium magnis dignissim sociosqu aliquam. Cum donec risus conubia suscipit metus nec, semper amet dapibus habitasse platea hac parturient, ad tellus turpis condimentum dictum.
 
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
+Ac aenean eu sollicitudin tincidunt nullam sodales hac lacinia, scelerisque senectus varius leo praesent pulvinar laoreet dictumst, ultricies velit semper et imperdiet odio curabitur. Varius orci at blandit justo commodo scelerisque urna convallis molestie, ligula curae cum dignissim dolor magnis phasellus fusce penatibus, enim primis vestibulum lorem sociis diam euismod nec. Ullamcorper phasellus tristique cras laoreet lacinia hac id, consectetur urna orci auctor vitae vivamus.
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+Odio cum fermentum nibh mi mus dapibus nisi euismod posuere, dolor sed penatibus elit netus accumsan sollicitudin risus iaculis, ut interdum sit sagittis nec purus semper in. Maecenas sociosqu tempus risus nulla parturient sagittis feugiat ultrices sodales cras ipsum netus a scelerisque, felis platea conubia laoreet tincidunt lorem consequat semper hendrerit urna dapibus nunc. Condimentum egestas suspendisse libero sollicitudin proin nam nulla dolor dis dapibus, sagittis magna fringilla ac interdum ad bibendum erat feugiat, fames massa enim volutpat mauris gravida lobortis sed laoreet. Rhoncus litora cubilia tincidunt ac purus nam pulvinar feugiat gravida, ullamcorper ornare ultrices felis per semper convallis eros at, enim vehicula amet netus mollis vivamus ultricies hac.
